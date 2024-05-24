@@ -1,0 +1,1 @@
+alloc.o: alloc.c
